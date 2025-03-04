@@ -49,3 +49,5 @@ TypeAlong is a sleek, minimalistic typing game built with SvelteKit and TypeScri
 ### [Ladybug](https://github.com/LadyBugML/ladybug) 🐞
 Ladybug is a GitHub bot that aggregates GUI information and bug reports, leveraging deep learning to accurately locate bugs within your repositories.
 
+### [nowaycode.com (portfolio)](https://github.com/Noway-code/timetocook) 🌐
+My hub for work, blogging, and web projects—a central landing page for everything I do.

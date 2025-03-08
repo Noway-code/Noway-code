@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! ⌨️</h1>
 
 ### I'm Camilo, I hope you enjoy my projects
-
+- 🔬 Undergraduate Researcher @ ADC Lab - UCF
 - 🔭 Ex-intern Software Developer @ Thermo Fisher Scientific
 - 📚 I'm currently majoring in CS, Minor in Mathematics
 - 🏋️‍♂️ In my free time, I am a bodybuilder and am currently training for my first marathon!

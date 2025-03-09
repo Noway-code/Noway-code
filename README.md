@@ -5,7 +5,7 @@
 - 🔭 Ex-intern Software Developer @ Thermo Fisher Scientific
 - 📚 I'm currently majoring in CS, Minor in Mathematics
 - 🏋️‍♂️ In my free time, I am a bodybuilder and am currently training for my first marathon!
-- 📖 I be reading: [Noway Reads on StoryGraph](https://app.thestorygraph.com/profile/nowayreads)
+- 📖 Checkout my Reads: [Noway Reads on StoryGraph](https://app.thestorygraph.com/profile/nowayreads)
 
 <h2 align="left">🛠 Language and Tools</h2>
 

@@ -43,11 +43,11 @@
 <h2 align="center">🎏 My Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" />
-  <br/><br/>
+  <br/>
   <table align="center">
     <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td align="center"><strong>Scripts</strong></td>
+      <td align="center"><strong>Top Languages</strong></td>
+      <td align="center"><strong>Top Scripts</strong></td>
     </tr>
     <tr>
       <td align="center">

@@ -1,5 +1,4 @@
 # Hi, I'm Camilo! 👋
----
 
 ## About Me
 - 🔬 **Undergraduate Researcher** @ ADC Lab - UCF

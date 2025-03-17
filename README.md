@@ -1,7 +1,4 @@
 # Hi, I'm Camilo! 👋
-
-I'm a CS major and math minor who’s into coding, research, and hitting the gym—plus training for my first marathon. Welcome to my digital crib where I share my projects and vibes!
-
 ---
 
 ## About Me

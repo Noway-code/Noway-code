@@ -46,16 +46,17 @@
 
 <h2 align="center">🎏 My Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" /><br/><br/>
-  
-  <div style="display: inline-block; margin-right: 20px;">
-    <p><strong>Languages</strong></p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Languages" />
-  </div>
-  
-  <div style="display: inline-block; margin-left: 20px;">
-    <p><strong>Scripts</strong></p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Scripts" />
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" />
+  <br/><br/>
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+    <div>
+      <p><strong>Languages</strong></p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Languages" />
+    </div>
+    <div>
+      <p><strong>Scripts</strong></p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Scripts" />
+    </div>
   </div>
 </div>
 

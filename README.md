@@ -1,17 +1,26 @@
 <h1 align="center">Welcome! ⌨️</h1>
 
-### I'm Camilo, I hope you enjoy my projects
-- 🔬 Undergraduate Researcher @ ADC Lab - UCF
-- 🔭 Ex-intern Software Developer @ Thermo Fisher Scientific
-- 📚 I'm currently majoring in CS, Minor in Mathematics
-- 🏋️‍♂️ In my free time, I am a bodybuilder and am currently training for my first marathon!
-- 📖 Checkout my Reads: [Noway Reads on StoryGraph](https://app.thestorygraph.com/profile/nowayreads)
+<p align="center">
+  I'm Camilo, hope you vibe with my projects.
+</p>
 
-<h2 align="left">🛠 Language and Tools</h2>
+<hr>
 
-<div align="left">
+<h2 align="center">About Me</h2>
+<ul>
+  <li>🔬 Undergraduate Researcher @ ADC Lab - UCF</li>
+  <li>🔭 Ex-intern Software Developer @ Thermo Fisher Scientific</li>
+  <li>📚 CS major, Minor in Mathematics</li>
+  <li>🏋️‍♂️ Bodybuilder & training for my first marathon</li>
+  <li>📖 Check out my Reads: <a href="https://app.thestorygraph.com/profile/nowayreads">Noway Reads on StoryGraph</a></li>
+</ul>
+
+<hr>
+
+<h2 align="center">🛠 Language and Tools</h2>
+<div align="center">
   <img src="https://cdn.simpleicons.org/archlinux/1793d1" height="40" alt="Arch" />
-   <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -31,26 +40,31 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm" />
- 
 </div>
 
-<h2 align="left">🎏 My Stats:</h2>
+<hr>
 
+<h2 align="center">🎏 My Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" />
-  Top Languages:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Top Languages" />
-  Top Scripting: 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Top Script" />
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Top Languages" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Top Scripting" style="margin-left: 10px;" />
 </div>
 
-<h2 align="left">🚀 Projects</h2>
+<hr>
 
-### [TypeAlong](https://github.com/noway-code/TypeAlongSvelte) 📖
-TypeAlong is a sleek, minimalistic typing game built with SvelteKit and TypeScript. It transforms your favorite EPUB books into immersive typing challenges, blending the joy of reading with the art of touch typing.
+<h2 align="center">🚀 Projects</h2>
+<h3><a href="https://github.com/noway-code/TypeAlongSvelte">TypeAlong</a> 📖</h3>
+<p>
+  A sleek, minimalistic typing game built with SvelteKit and TypeScript. Transforms your fave EPUB books into immersive typing challenges.
+</p>
 
-### [Ladybug](https://github.com/LadyBugML/ladybug) 🐞
-Ladybug is a GitHub bot that aggregates GUI information and bug reports, leveraging deep learning to accurately locate bugs within your repositories.
+<h3><a href="https://github.com/LadyBugML/ladybug">Ladybug</a> 🐞</h3>
+<p>
+  A GitHub bot that aggregates GUI info and bug reports, leveraging deep learning to pinpoint bugs in your repos.
+</p>
 
-### [Nowaycode.com](https://github.com/Noway-code/timetocook) 🌐
-My hub for work, blogging, and web projects—a central landing page for everything I do.
+<h3><a href="https://github.com/Noway-code/timetocook">Nowaycode.com</a> 🌐</h3>
+<p>
+  My hub for work, blogging, and web projects—a central landing page for everything I do.
+</p>

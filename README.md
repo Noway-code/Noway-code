@@ -15,8 +15,6 @@
   <li>📖 Check out my Reads: <a href="https://app.thestorygraph.com/profile/nowayreads">Noway Reads on StoryGraph</a></li>
 </ul>
 
-<hr>
-
 <h2 align="center">🛠 Language and Tools</h2>
 <div align="center">
   <img src="https://cdn.simpleicons.org/archlinux/1793d1" height="40" alt="Arch" />
@@ -41,8 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm" />
 </div>
-
-<hr>
 
 <h2 align="center">🎏 My Stats</h2>
 <div align="center">

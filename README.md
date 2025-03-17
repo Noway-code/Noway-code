@@ -1,5 +1,6 @@
 # Hi, I'm Camilo! 👋
 
+---
 ## About Me
 - 🔬 **Undergraduate Researcher** @ ADC Lab - UCF
 - 🔭 **Ex-Intern Software Developer** @ Thermo Fisher Scientific

@@ -60,7 +60,6 @@
   </table>
 </div>
 
-<hr>
 
 <h2 align="center">🚀 Projects</h2>
 <h3><a href="https://github.com/noway-code/TypeAlongSvelte">TypeAlong</a> 📖</h3>

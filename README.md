@@ -3,9 +3,9 @@
 
 <!-- About Me -->
 <ul>
-  <li>🔬 Undergraduate Researcher @ ADC Lab - UCF</li>
-  <li>🔭 Ex-intern Software Developer @ Thermo Fisher Scientific</li>
-  <li>📚 CS major, Minor in Mathematics</li>
+  <li>🏦 Engineer Analyst @ BNY Mellon</li>
+  <li>🔬 Researcher @ ADC Lab</li>
+  <li>📚 Computer Science Bachellors</li>
   <li>🏋️‍♂️ Bodybuilder & training for my first marathon</li>
   <li>📖 Check out my Reads: <a href="https://app.thestorygraph.com/profile/nowayreads">Noway Reads on StoryGraph</a></li>
 </ul>
@@ -65,7 +65,7 @@
 <!-- Stats -->
 <h2 align="center">🎏 My Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="285" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="265" alt="Streak Stats" />
   <br/>
   <table align="center">
     <tr>
@@ -74,12 +74,13 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=330&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua,jupyter%20notebook" height="350" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=330&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua,jupyter%20notebook" height="320" alt="Languages" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=330&langs_count=5&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte,java,jupyter" height="350" alt="Scripts" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=330&langs_count=5&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte,java,jupyter" height="320" alt="Scripts" />
       </td>
     </tr>
   </table>
 </div>
+
 

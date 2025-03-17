@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! ⌨️</h1>
 
 <p align="center">
-  I'm Camilo, hope you vibe with my projects.
+  I'm Camilo, hope you like my projects!
 </p>
 
 <hr>
@@ -47,8 +47,16 @@
 <h2 align="center">🎏 My Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Top Languages" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Top Scripting" style="margin-left: 10px;" />
+  
+  <div style="display: inline-block; margin-right: 20px;">
+    <p><strong>Languages</strong></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Languages" />
+  </div>
+  
+  <div style="display: inline-block; margin-left: 20px;">
+    <p><strong>Scripts</strong></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Scripts" />
+  </div>
 </div>
 
 <hr>

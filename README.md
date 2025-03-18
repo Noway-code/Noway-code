@@ -1,12 +1,7 @@
 <h1 align="center">Welcome! ⌨️</h1>
+<img align="right" height="150" src="https://carboncostume.com/wordpress/wp-content/uploads/2021/12/orbponderingwizard-meme.jpg">
 
-<p align="center">
-  I'm Camilo, hope you like my projects.
-</p>
-
-<hr>
-
-<h2 align="center">About Me</h2>
+<!-- About Me -->
 <ul>
   <li>🔬 Undergraduate Researcher @ ADC Lab - UCF</li>
   <li>🔭 Ex-intern Software Developer @ Thermo Fisher Scientific</li>
@@ -15,64 +10,75 @@
   <li>📖 Check out my Reads: <a href="https://app.thestorygraph.com/profile/nowayreads">Noway Reads on StoryGraph</a></li>
 </ul>
 
+<!-- Tools -->
 <h2 align="center">🛠 Language and Tools</h2>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/archlinux/1793d1" height="40" alt="Arch" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="Svelte" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Shell" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="WebStorm" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch" />
+</div>
+<!-- Projects -->
+<h2 align="center">🚀 Projects</h2>
+<div style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px;">
+  <div style="background: #fefefe; border-left: 5px solid #4caf50; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3><a href="https://github.com/noway-code/TypeAlongSvelte">TypeAlong</a> 📖</h3>
+    <p>
+      A sleek, minimalistic typing game built with SvelteKit and TypeScript. Transforms your fave EPUB books into immersive typing challenges.
+    </p>
+  </div>
+
+  <div style="background: #fefefe; border-left: 5px solid #ff5722; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3><a href="https://github.com/LadyBugML/ladybug">Ladybug</a> 🐞</h3>
+    <p>
+      A GitHub bot that aggregates GUI info and bug reports, leveraging deep learning to pinpoint bugs in your repos.
+    </p>
+  </div>
+
+  <div style="background: #fefefe; border-left: 5px solid #2196f3; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3><a href="https://github.com/Noway-code/timetocook">Nowaycode.com</a> 🌐</h3>
+    <p>
+      My hub for work, blogging, and web projects—a central landing page for everything I do.
+    </p>
+  </div>
 </div>
 
+<!-- Stats -->
 <h2 align="center">🎏 My Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=noway-code&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="285" alt="Streak Stats" />
   <br/>
   <table align="center">
     <tr>
-      <td align="center"><strong>Top Languages</strong></td>
-      <td align="center"><strong>Top Scripts</strong></td>
+      <th>Top Languages</th>
+      <th>Top Scripts</th>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua" height="175" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=330&langs_count=6&theme=nord&hide_border=false&order=2&hide=shell,html,css,lua,jupyter%20notebook" height="350" alt="Languages" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte" height="175" alt="Scripts" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noway-code&locale=en&hide_title=true&layout=donut-vertical&card_width=330&langs_count=5&theme=nord&hide_border=false&order=2&hide=c,javascript,typescript,svelte,java,jupyter" height="350" alt="Scripts" />
       </td>
     </tr>
   </table>
 </div>
-
-
-<h2 align="center">🚀 Projects</h2>
-<h3><a href="https://github.com/noway-code/TypeAlongSvelte">TypeAlong</a> 📖</h3>
-<p>
-  A sleek, minimalistic typing game built with SvelteKit and TypeScript. Transforms your fave EPUB books into immersive typing challenges.
-</p>
-
-<h3><a href="https://github.com/LadyBugML/ladybug">Ladybug</a> 🐞</h3>
-<p>
-  A GitHub bot that aggregates GUI info and bug reports, leveraging deep learning to pinpoint bugs in your repos.
-</p>
-
-<h3><a href="https://github.com/Noway-code/timetocook">Nowaycode.com</a> 🌐</h3>
-<p>
-  My hub for work, blogging, and web projects—a central landing page for everything I do.
-</p>

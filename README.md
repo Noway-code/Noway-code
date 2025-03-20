@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! ⌨️</h1>
-<img align="right" height="150" src="https://carboncostume.com/wordpress/wp-content/uploads/2021/12/orbponderingwizard-meme.jpg">
+<img align="right" height="130" src="https://carboncostume.com/wordpress/wp-content/uploads/2021/12/orbponderingwizard-meme.jpg">
 
 <!-- About Me -->
 <ul>

@@ -3,8 +3,8 @@
 
 <!-- About Me -->
 <ul>
-  <li>🏦 Engineer Analyst @ BNY Mellon</li>
-  <li>🔬 Researcher @ ADC Lab</li>
+  <li>🤓 Engineer Analyst @ BNY Mellon</li>
+  <li>🔬 Researcher @ ADC Lab - UCF</li>
   <li>📚 Computer Science Bachellors</li>
   <li>🏋️‍♂️ Bodybuilder & training for my first marathon</li>
   <li>📖 Check out my Reads: <a href="https://app.thestorygraph.com/profile/nowayreads">Noway Reads on StoryGraph</a></li>

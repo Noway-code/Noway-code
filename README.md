@@ -7,7 +7,6 @@ Software Engineer @ BNY
 
 - Bouldering & Birding
 - Reading → https://app.thestorygraph.com/profile/nowayreads
-- To Trad or To Vibe, that is the question
 
 ---
 

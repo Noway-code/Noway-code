@@ -1,6 +1,6 @@
 ## Hi I'm noway-code!
 
-<img align="right" src="https://media.audubon.org/nas_birdapi_hero/web_h_americanwoodcock_e72w90_adult.jpg" width="280" alt="peent" />
+<img align="right" src="https://media.audubon.org/nas_birdapi_hero/web_h_americanwoodcock_e72w90_adult.jpg" width="320" alt="peent" />
 
 **Software Engineer @ BNY: building AI-driven internal tools**
 
@@ -9,6 +9,8 @@ Background in full-stack, embedded systems, and data-heavy apps
 - Bouldering & Birding
 - Reading on [StoryGraph](https://app.thestorygraph.com/profile/nowayreads)
 - Currently: master's at GT + building a bird cam
+
+<br clear="right" />
 
 ---
 

@@ -32,4 +32,4 @@ Personal site and project hub
 
 ### Stack
 
-`C#` `Python` `PyTorch` `Raspberry Pi` `Linux` `Neovim`
+`C#` `Python` `TypeScript` `Raspberry Pi` `Linux` `Neovim`
